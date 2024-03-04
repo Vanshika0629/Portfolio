@@ -11,9 +11,7 @@ export default function Dashboard() {
                 <h2>About myself</h2>
                 <p> I am vanshika. I pursuing my graduation from Khalsa college for women.</p>
               </div>
-              <div class="col-4">
-              <img src="https://th.bing.com/th/id/OIP.0iG7xinjnxYwduQCGJs1rQHaKX?w=187&h=261&c=7&r=0&o=5&dpr=1.5&pid=1.7"/>
-              </div>
+              
             </div>
           </div>
         </div>
